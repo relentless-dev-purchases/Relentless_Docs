@@ -2,7 +2,7 @@
 
 6/2/23
 
-Database alpha (0.0.2) almost finished.
+Database alpha (0.0.3) almost finished.
 
 Directory       
 Task -MVC-        
@@ -75,6 +75,10 @@ So enjoy my work when it comes out. And if you didn't deserve me being riled up,
 Whatever. 
 
 #EndSlavery #SaySomethingInteresting
+
+...
+
+I stand behind my research indicating that the Captcha is long overdue for replacement by something more practical. Very easy to hop those things. My design of having the user send one personal photo they take (it can be anywhere, and used for quite a while for q+a extraction) and alterating which photo they send to different entities provides, I like to think, something relatively inherently secure to the point where we can all move past the annoying 2FA systems.
 
 
 
