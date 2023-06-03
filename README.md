@@ -8,7 +8,7 @@ Directory
 Task -MVC-        
 
 ```Yaml
-Tool
+Tools:
 Github API 
 Bing API 
 GPT 3
